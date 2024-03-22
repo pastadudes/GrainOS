@@ -1,8 +1,7 @@
-#arch-install-scripts
-#archinstall
-#kitty-terminfo
 alsa-utils
 amd-ucode
+arch-install-scripts
+arch-chroot
 base
 base-devel
 bash
@@ -14,7 +13,6 @@ broadcom-wl
 brltty
 btrfs-progs
 bzip2
-chromium
 clonezilla
 cloud-init
 cryptsetup
@@ -30,7 +28,6 @@ dosfstools
 e2fsprogs
 edk2-shell
 efibootmgr
-epiphany
 espeakup
 ethtool
 exfatprogs
@@ -43,17 +40,12 @@ fish
 foot-terminfo
 fsarchiver
 gcc
+genfstab
 gimp
 git
-gnu-netcat
 gpart
 gparted
-gpm
 gptfdisk
-gnome-extra
-gnome-terminal
-gnome-disk-utility
-gnome
 glibc
 grml-zsh-config
 grub
@@ -70,10 +62,9 @@ less
 lftp
 libfido2
 libusb-compat
-libreoffice-fresh
 linux
 linux-atm
-linux-firmware
+linux-firmwareresh
 linux-firmware-marvell
 livecd-sounds
 lm_sensors
@@ -87,7 +78,6 @@ mc
 mdadm
 memtest86+
 memtest86+-efi
-micro
 mkinitcpio
 mkinitcpio-archiso
 mkinitcpio-nfs-utils
@@ -100,7 +90,6 @@ neovim
 net-tools
 nfs-utils
 nilfs-utils
-nmap
 ntfs-3g
 nvme-cli
 open-iscsi
@@ -117,7 +106,6 @@ pptpclient
 pkg-config
 pv
 qemu-guest-agent
-refind
 reflector
 reiserfsprogs
 rp-pppoe
